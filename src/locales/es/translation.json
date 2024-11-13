@@ -1,0 +1,223 @@
+{
+  "navigation": {
+    "labels": {
+      "OurStory": "Nuestra historia",
+      "Careers": "Carreras",
+      "ContactUs": "Contacta con nosotros",
+      "Explore": "Explorar",
+      "OurProviders": "Nuestros proveedores",
+      "Blog": "Blog",
+      "OurSolutions": "Nuestras Soluciones",
+      "WorkWithUs": "¡Trabaja con nosotros!",
+      "WhatItCost": "¿Cuánto cuesta?",
+      "MentalHealth": "Salud mental"
+    },
+    "account": {
+      "title": "Cuenta",
+      "login": "Acceso",
+      "signup": "Inscribirse"
+    },
+    "open": "Abrir menú principal",
+    "AboutUs": "¿Qué es el Rápido Relief?",
+    "Support": "¡APOYANOS!",
+    "BrowseTopSpecialties": "Explorar las principales especialidades",
+    "CarePhysicians": "Médicos de atención",
+    "TherapistCounselors": "Terapeutas-consejeros",
+    "Psychologists": "Psicólogos",
+    "OrthopedicSurgeons": "Cirujanos ortopédicos",
+    "UrgentCare": "Atención de urgencias",
+    "Pediatricians": "Pediatras",
+    "Ophthalmologists": "Oftalmólogos",
+    "Optometrists": "Optometristas",
+    "OBGYNs": "obstetras y ginecólogos",
+    "Chiropractors": "Quiroprácticos",
+    "Dermatologists": "Dermatólogos",
+    "Podiatrists": "Podólogos",
+    "Psychiatrists": "psiquiatras",
+    "Dentists": "Dentistas",
+    "Cardiologists": "Cardiólogos",
+    "OnlineDoctors": "Doctores en línea"
+  },
+  "aboutPage": {
+    "Greetings": "¡Ey!",
+    "founder": "Fundador",
+    "founderStory": "Estoy encantado de compartir con ustedes la historia detrás de Rapido Relief. Imagínese esto: todo comenzó con una idea simple: hacer que la atención médica sea más accesible, eficiente y absolutamente humana.\n\nEn Rapido Relief, no somos la típica empresa de atención médica. No, nuestro objetivo es derribar barreras y poner a las personas en primer lugar. Verá, siempre he creído que todos merecen atención médica de calidad, sin importar quiénes sean o dónde vivan.\n\nAsí que, armados con una pasión por la innovación y un equipo de mentes increíbles, nos propusimos una misión. ¿Nuestro objetivo? Revolucionar la forma en que se presta la atención sanitaria, una idea brillante a la vez.\n\nPero aquí está el truco: no estamos en esto sólo por la tecnología sofisticada o por mucho dinero (aunque eso también es bueno, no me entiendas). equivocado). No, lo que realmente nos motiva es la oportunidad de marcar una diferencia real en la vida de las personas. Ya sea ayudando a un paciente a encontrar al médico adecuado o asegurándonos de que reciba sus medicamentos a tiempo, cada pequeña victoria es una victoria en nuestro libro.\n\nY bueno, no somos de los que alardean, pero hemos recorrido un largo camino desde aquellos primeros días. Hoy en día, Rapido Relief es un nombre confiable en el sector de la atención médica, conocido por nuestras soluciones innovadoras y nuestro compromiso inquebrantable con nuestra comunidad.\n\nPero ya basta de nosotros: ¡queremos saber de usted! Si usted es un paciente que busca ayuda o un proveedor listo para unirse a la revolución, estamos aquí para hacer que su viaje de atención médica sea muy sencillo.\n\nAsí que adelante, dé un acto de fe con nosotros. ¿Quién sabe? Juntos, podríamos cambiar el mundo.\n\nNos vemos por otro lado:",
+    "our": "Nuestro",
+    "teamMembers": "Miembros del equipo",
+    "teamIntro": "¡Bienvenido al corazón y al alma de Rapido Relief! Nuestro equipo es un grupo dedicado de personas impulsadas por una pasión compartida por revolucionar la atención médica y generar un impacto significativo en la vida de las personas. Conozca las caras detrás de la misión mientras le presentamos a las personas talentosas que hacen que todo esto suceda:",
+    "aboutUs": "Sobre nosotros"
+  },
+  "fundraise": {
+    "heading": "Ayude a construir el futuro de la atención médica instantánea",
+    "body": "Su apoyo ayuda a conectar a las personas con atención médica que les salvará la vida cuando más la necesitan. Únase a nosotros para hacer que la atención médica sea accesible para todos, en todas partes.",
+    "donate": "Donar ahora",
+    "supportByShopping": "Apoyo mediante compras",
+    "invitation": "¿Hacerse miembro de nuestra comunidad?",
+    "signUp": "Inscribirse",
+    "howYouCanHelp": "Cómo puede ayudar a crear la aplicación Rapido Relief",
+    "ctaBody": "Crear una aplicación que transforme vidas requiere recursos. Con tu ayuda, podemos llevar la aplicación Rapido Relief a quienes más la necesitan.\n\nHay dos maneras en que puedes apoyarnos: donando o comprando uno de nuestros productos saludables cuidadosamente seleccionados. Cada contribución nos acerca un paso más a nuestro objetivo.",
+    "shopNow": "Comprar ahora",
+    "productSectionHeader": "Productos destacados de afiliados saludables",
+    "productSectionSecondHeader": "Compre nuestros productos de salud y bienestar para respaldar el alivio de Rapido",
+    "productSectionBody": "Al comprar cualquiera de estos productos, un porcentaje de las ganancias se destinará directamente al desarrollo de la aplicación Rapido Relief. No sólo apoyarás nuestro proyecto, sino que también invertirás en tu salud y bienestar.",
+    "description1": "Apoye su sistema inmunológico con nuestro multivitamínico orgánico confiable. El 10% de los ingresos se destina a Rapido Relief.",
+    "description2": "Realice un seguimiento de su salud y estado físico con este elegante dispositivo portátil. Apoye el desarrollo de nuestra aplicación mientras mejora su bienestar.",
+    "description3": "Relájese y alivie el estrés con este calmante difusor de aromaterapia. Cada compra ayuda a crear la aplicación Rapido Relief",
+    "buyNow": "Comprar ahora"
+  },
+  "travalTime": {
+    "cutDownOnTime": "Reduzca el tiempo de viaje",
+    "zeroWaitingPeriod": "Período de espera cero",
+    "certifiedExperts": "Expertos certificados"
+  },
+  "productAds": {
+    "productEssentials": "Productos esenciales",
+    "bottleWithCork": "Botella Con Corcho De Madera",
+    "productFurniture": "Productos Muebles",
+    "plywoodChair": "Silla de madera contrachapada Hauteville"
+  },
+  "trendingProducts": {
+    "heading": "Reseñas de productos de tendencia",
+    "subHeadings": {
+      "one": "Productos ayurvédicos",
+      "two": "Suplemento de vitaminas y proteínas.",
+      "three": "Cuidado de la madre y del bebé",
+      "four": "Alimentos y bebidas saludables"
+    },
+    "branded": "De marca"
+  },
+  "providerMarket": {
+    "heading": "Are you a provider & interested in reaching new patients?",
+    "body": "Incluya su práctica en Rapido Relief Marketplace y sea descubierto",
+    "buttonText": "Registre su práctica o tienda en la aplicación Rapido Relief"
+  },
+  "home": {
+    "heroHeading": "Atención sanitaria revolucionaria para el siglo XXI",
+    "heroSubHeading": "Somos pioneros en el futuro de la atención médica con una solución de telesalud y telemedicina de vanguardia",
+    "subscribeNow": "Suscríbete ahora",
+    "invitationText": "Para convertirse en miembro de la comunidad",
+    "howRapidoReliefWorks": "Cómo funciona Rapido Relief",
+    "itIsSimple": "es muy simple",
+    "firstSection": {
+      "item1": {
+        "topic": "Regístrese y confirme su registro",
+        "text1": "Cree una cuenta rápidamente con su correo electrónico o inicio de sesión social.",
+        "text2": "¡Confirma tu registro para comenzar!"
+      },
+      "item2": {
+        "topic": "Elija un plan y acceda a servicios exclusivos",
+        "text1": "Selecciona una suscripción que se ajuste a tus necesidades y realiza un pago seguro.",
+        "text2": "Desbloquee acceso exclusivo a servicios, soporte y recursos de atención médica."
+      },
+      "item3": {
+        "topic": "Conéctese y comience su viaje hacia la salud",
+        "text1": "Disfrute de un acceso perfecto a profesionales de la salud y una variedad de opciones de soporte.",
+        "text2": "¡Obtenga la atención que necesita en cualquier momento y en cualquier lugar!"
+      }
+    },
+    "seeADoctor": "¡Consulte a un médico con o sin seguro!",
+    "options": {
+      "label1": "Buscar",
+      "placeholder1": "Condición, médico o farmacia",
+      "label2": "Ubicación",
+      "placeholder2": "Ciudad, estado o código postal",
+      "label3": "Tener seguro",
+      "placeholder3": "Elija seguro",
+      "card1Name": "Consultar en línea",
+      "card2Name": "encontrar farmacia",
+      "card3Name": "Encontrar un doctor",
+      "card4Name": "encontrar un hospital",
+      "card5Name": "Ambulancia de emergencia",
+      "card6Name": "Salud mental"
+    },
+    "vision": {
+      "cardName1": "Consultas de Telemedicina",
+      "cardDescription1": "Teleconsultas a pedido con médicos generales para asesoramiento médico preliminar y preocupaciones de atención médica que no sean de emergencia.",
+      "cardName2": "Sesiones de terapia virtual",
+      "cardDescription2": "Acceso a sesiones virtuales de salud mental con terapeutas autorizados para brindar apoyo y orientación en momentos de necesidad.",
+      "cardName3": "Consultas de prescripción",
+      "cardDescription3": "Acceso inmediato a consultas sobre recetas con farmacéuticos experimentados para obtener asistencia con medicamentos rápida y conveniente."
+    },
+    "help": {
+      "aboutHeading": "Acerca de la aplicación Rapido Relief",
+      "aboutBody": "La aplicación Rapido Relief está revolucionando la atención médica de emergencia al ofrecer acceso inmediato a profesionales calificados a través de nuestra innovadora plataforma de telesalud. Priorizamos la respuesta rápida y la atención eficiente para garantizar su tranquilidad durante las emergencias.\n\n Experimente la tranquilidad sabiendo que la aplicación Rapido Relief ofrece acceso inmediato a profesionales de la salud de calidad. Desde asesoramiento médico hasta atención de urgencia, garantizamos conexiones rápidas y eficientes cuando más lo necesita.",
+      "featureTitle1": "Todo en uno",
+      "featureDescription1": "Atención sanitaria completa",
+      "featureTitle2": "Rápido y preciso",
+      "featureDescription2": "Informes de prueba",
+      "featureTitle3": "24/7",
+      "featureDescription3": "Atención al cliente"
+    },
+    "telehealth": {
+      "heading": "Vamos a conseguirte un doctor que te atrape",
+      "subHeading1": "Chatbot de IA de telesalud",
+      "subHeading2": "Vea especialistas que aceptan su seguro médico en nuestra plataforma",
+      "subHeading3": "Apoyo a la salud mental",
+      "subHeading4": "Sistema de alerta inteligente",
+      "body1": "Con Rapido, los pacientes pueden programar consultas virtuales con nuestro Chatbot de telesalud, ya sea que busquen chequeos de rutina, opiniones de especialistas o apoyo de salud mental.",
+      "body2": "Únase a nosotros en este viaje inspirador mientras aprovechamos el potencial de la IA para redefinir la atención médica, una solución innovadora a la vez.",
+      "text": "Rapido Chatbot reserva de citas",
+      "body3": "Nuestra plataforma también brinda apoyo de salud mental con terapeutas autorizados disponibles para sesiones de asesoramiento y apoyo emocional.",
+      "body4": "Los usuarios pueden enviar alertas de emergencia con solo presionar un botón."
+    },
+    "faq": {
+      "heading": "Preguntas frecuentes",
+      "subHeading1": "Acceso rápido",
+      "subHeading2": "Asistencia rápida",
+      "subHeading3": "Conexiones rápidas",
+      "subHeading4": "ayuda inmediata",
+      "body1": "Nuestra plataforma de telesalud ofrece asistencia inmediata por parte de profesionales sanitarios cualificados, garantizando una respuesta rápida en situaciones de emergencia.",
+      "body2": "Nuestra plataforma facilita conexiones rápidas con expertos en atención médica, brindando soluciones rápidas a emergencias médicas.",
+      "body3": "¿Necesita ayuda urgente? Nuestra aplicación lo conecta rápidamente con profesionales de la salud, garantizando asistencia oportuna en caso de emergencia.",
+      "body4": "Acceda rápidamente a profesionales de la salud calificados a través de nuestra aplicación y reciba ayuda inmediata cuando más la necesita."
+    },
+    "jobsHeading": "Clientes y socios destacados",
+    "joinUs": {
+      "heading": "trabajos de socorro rapido",
+      "body": "Únase a nosotros y ayude a transformar la atención médica para todos",
+      "buttonText": "Ver ofertas de trabajo"
+    }
+  },
+  "Esg": {
+    "areYouACustomer": "¿Ya eres cliente y necesitas soporte?",
+    "talkOnWhatsapp": "Hablar por WhatsApp",
+    "insights": "perspectivas",
+    "seeAllNews": "Ver todas las noticias",
+    "date1": "25 de junio de 2024",
+    "topic1": "Rompiendo barreras: cómo Rapido AI transforma la salud mental",
+    "topic2": "Empoderando a los pacientes: Historias exitosas de telesalud de Rapido",
+    "topic3": "Telesalud impulsada por IA de Rapido: uniendo la brecha en la atención médica",
+    "topic4": "El futuro de la telemedicina: opiniones de expertos"
+  },
+  "form": {
+    "enterYourName": "Introduce tu nombre",
+    "enterYourEmail": "Introduce tu correo electrónico",
+    "subscribe": "SUSCRIBIR",
+    "termsAgreement": "Al marcar esta casilla, confirma que ha leído y acepta nuestros términos de uso con respecto al almacenamiento de los datos enviados a través de este formulario."
+  },
+  "footer": {
+    "inquiryText": "Para soporte o cualquier consulta relacionada, escríbanos a",
+    "followOnSocialMedia": "Síguenos en las redes sociales",
+    "solution": "Solución",
+    "doctors": "encontrar doctores",
+    "pharmacy": "encontrar farmacia",
+    "healthExpertise": "Experiencia en atención médica",
+    "patientCommunication": "Comunicación con el paciente",
+    "providerCollaboration": "Colaboración del proveedor",
+    "workflowAutomation": "Automatización del flujo de trabajo",
+    "resources": "Recursos",
+    "aboutUs": "Sobre nosotros",
+    "blog": "Blog",
+    "successStories": "Historias de éxito",
+    "whitePapers": "Libros blancos",
+    "career": "Carrera / RSE",
+    "podcastAndVideos": "Pódcasts/vídeos",
+    "comingSoon": "Próximamente",
+
+    "copyright": "© 2024 © RapidoRelief. Reservados todos los derechos.",
+    "privacyPolicy": "política de privacidad",
+    "legal": "legal",
+    "cookies": "galletas",
+    "termsAndConditions": "términos y condiciones"
+  }
+}
